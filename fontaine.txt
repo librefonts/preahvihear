@@ -1,0 +1,30 @@
+Fonts
+  Font:
+    Common name: Preah Vihear
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),
+    Version: Version 6.00 March 3, 2011
+    Designer: Danh Hong
+    Designer url: khmertype.blogspot.com
+    Glyph count: 695
+    Character count: 137
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 16
